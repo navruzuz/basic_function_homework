@@ -1,5 +1,5 @@
 # Create a function called main.
 def main(a):
 # Return the value 0
-    return a
+    return 0
 print(main(0))
